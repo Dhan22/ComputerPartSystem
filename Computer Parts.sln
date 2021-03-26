@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartClasses", "PartClasses\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lost Testing", "Lost Testing\Lost Testing.csproj", "{506ADC75-804B-467B-8701-A99062DDB44D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupplierWebsite", "SupplierFramework\SupplierWebsite\SupplierWebsite.csproj", "{BBADEEB5-BE6B-4FBA-ADD3-E0395569E4F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "SupplierFramework\ClassLibrary\ClassLibrary.csproj", "{F71BD912-D2DE-433E-8749-87A29AEA0AA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +57,14 @@ Global
 		{506ADC75-804B-467B-8701-A99062DDB44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{506ADC75-804B-467B-8701-A99062DDB44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{506ADC75-804B-467B-8701-A99062DDB44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBADEEB5-BE6B-4FBA-ADD3-E0395569E4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBADEEB5-BE6B-4FBA-ADD3-E0395569E4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBADEEB5-BE6B-4FBA-ADD3-E0395569E4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBADEEB5-BE6B-4FBA-ADD3-E0395569E4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F71BD912-D2DE-433E-8749-87A29AEA0AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71BD912-D2DE-433E-8749-87A29AEA0AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71BD912-D2DE-433E-8749-87A29AEA0AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71BD912-D2DE-433E-8749-87A29AEA0AA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
