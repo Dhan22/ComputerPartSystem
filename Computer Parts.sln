@@ -8,6 +8,7 @@ EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LostPartsFrontOffice", "LostPartsFrontOffice\", "{F227C1FB-BC11-420B-9896-0F7BB5092CAE}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		ProjectReferences = "{cb2be9e4-c529-4c80-a18c-29ab44363a2c}|PartClasses.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_4604"
 		Debug.AspNetCompiler.PhysicalPath = "LostPartsFrontOffice\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4604\"
